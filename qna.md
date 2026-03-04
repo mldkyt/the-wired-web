@@ -12,6 +12,7 @@ Imagine using a service:
 
 - If it's a social network, you can use it to socialize, browse cat pics and the usual good stuff. What is not allowed for example is attacking people, abusing the fedi server etc.
 - If it's a Forgejo instance, you can use it to host your code, fork other people's projects, open PR's, issues and so on, but you probably shouldn't use it as a file server, because of limited resources
+- If it's a chat service, you can use it to chat obviously, but sending bad messages, toxicity and other undesirable behaviour is not okay
 
 You get the idea. Just use the services for their intended purpose, and don't abuse them
 
