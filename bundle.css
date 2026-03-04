@@ -1,0 +1,18 @@
+:root {
+    color-scheme: dark;
+    background-color: #000000;
+    font-family: monospace;
+}
+
+main {
+    width: 70vw;
+    margin: auto;
+}
+
+h1 {
+    color: #00aa00;
+}
+
+li {
+    margin: 4px 0;
+}
