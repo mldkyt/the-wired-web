@@ -3,7 +3,6 @@ title: Common Questions
 layout: "main.njk"
 ---
 
-
 # Common Questions
 
 ## What is "common sense"

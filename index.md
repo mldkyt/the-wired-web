@@ -9,8 +9,7 @@ We host a few services for anyone to register and use.
 
 ## Services
 
-- [Akkoma](/akkoma)
-- [Forgejo](/forgejo)
+- [Pleroma](/pleroma)
 
 # Support us
 
