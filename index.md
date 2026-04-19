@@ -10,6 +10,10 @@ We host a few services for anyone to register and use.
 ## Services
 
 - [Pleroma](/pleroma)
+- [Matrix](/matrix)
+- [XMPP](/xmpp)
+
+Also take a look at the [QnA](/qna) if you have any questions that might already be answered.
 
 # Support us
 
