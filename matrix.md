@@ -11,7 +11,7 @@ We have a Matrix server. Registration is currently possible by asking for an inv
 
 ## How do I ask for an invite?
 
-Send me a message on [fedi](https://sk.lunya.pet/@lunya), email <lunya\[@\]lunya.pet> or anywhere else in the [contact page](https://lunya.pet/contact) except for anonymous messages.
+Send me a message on [fedi](https://fedi.mldchan.dev/users/luna), email <estrogen\[@\]tuta.io> or anywhere else in the [contact page](https://mldchan.dev/contact) except for anonymous messages.
 
 ## Rules
 

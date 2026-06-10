@@ -1,13 +1,13 @@
 ---
-title: Pleroma
+title: Akkoma
 layout: "main.njk"
 ---
 
 [back](/)
 
-# Pleroma
+# Akkoma
 
-The Pleroma instance is available from [the-wired.club](https://the-wired.club) (the root domain).
+The Akkoma instance is available from [the-wired.club](https://the-wired.club) (the root domain).
 
 ## Rules
 

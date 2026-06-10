@@ -25,14 +25,10 @@ If there's enough interest and money to run X, we'll run it. (or make it public 
 
 Currently, I have these services running on my server:
 
-- PeerTube ([pt.lunya.pet](https://pt.lunya.pet))
-- Vaultwarden ([p.lunya.pet](https://p.lunya.pet))
-- Sharkey ([sk.lunya.pet](https://sk.lunya.pet))
-- PHPBB ([forums.lunya.pet](https://forums.lunya.pet))
-- Immich ([immich.lunya.pet](https://immich.lunya.pet))
-- Nextcloud ([nx.lunya.pet](https://nx.lunya.pet))
-- Iceshrimp.NET ([is.lunya.pet](https://is.lunya.pet))
-- Copyparty ([f.lunya.pet](https://f.lunya.pet))
+- PeerTube ([pt.mldchan.dev](https://pt.mldchan.dev))
+- Vaultwarden ([vault.mldchan.dev](https://vault.mldchan.dev))
+- Akkoma ([fedi.mldchan.dev](https://fedi.mldchan.dev))
+- Immich ([img.mldchan.dev](https://img.mldchan.dev))
 - probably more I forgot to list here
 
 These can be made public if there's interest.
